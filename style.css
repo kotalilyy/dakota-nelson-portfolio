@@ -18,17 +18,9 @@
     li {
         color: teal;
     }
+
+    body {
+        background-color: thistle;
+    }
     
-      
-    /* window size 850 width set */
-    @media screen and (max-width: 850px) { 
-        .column { 
-            width: 50%; 
-        } 
-    } 
- 
-    /* window size 400 width set */
-    @media screen and (max-width: 400px) { 
-        .column { 
-            width: 100%; 
-        } 
+   
