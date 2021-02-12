@@ -8,6 +8,7 @@ https://kotalilyy.github.io/dakota-nelson-portfolio/
 
 # Screenshot
 
-![kotalilyy github io_dakota-nelson-portfolio_ (1)](https://user-images.githubusercontent.com/77229281/107802753-6294c080-6d27-11eb-98cf-95e08ffe1d41.png)
+![_Users_dakotan_Desktop_challenge-%232_dakota-nelson-portfolio_index html](https://user-images.githubusercontent.com/77229281/107803874-d4213e80-6d28-11eb-8f9d-ef2ea519185d.png)
+
 
 Made with ❤️  by Dakota Nelson
