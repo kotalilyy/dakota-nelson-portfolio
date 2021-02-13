@@ -4,12 +4,12 @@
 
     h1 { 
         color: violet; 
-        font-size:0
-        text-align:0%
+        font-size: 0;
+        text-align: 0%;
     } 
 
     h2 {
-        color:teal
+        color:teal;
     }
 
     h3 {
@@ -20,6 +20,10 @@
         color: violet;
     }
 
+    h5 {
+        color: teal
+    
+    }
     li {
         color: teal;
     }
@@ -43,11 +47,8 @@
         font-size: 17px;
 
 
-    @media  (max-width: 500px){
-        body{
-
-        }
-    }
+  
+   
   @media  (max-width: 500px){
       h1 {
           color:violet;
@@ -57,12 +58,12 @@
 
   @media (max-width: 800px){
     h1 {
-    color: purple
+    color: purple;
     font-size: 5rem;
   }
 
   @media (min-width: 500px) and (max-width: 800px){
       h1 {
-          color:cadetblue
+          color: cadetblue;
       }
   }
