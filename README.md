@@ -1,4 +1,5 @@
 # dakota-nelson-portfolio
+My very first Portfolio made entirely from scratch 
 
 # Link
 
