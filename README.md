@@ -12,4 +12,4 @@ https://kotalilyy.github.io/dakota-nelson-portfolio/
 
 
 
-Made with ❤️  by Dakota Nelson
+Made with ❤️ by Dakota Nelson
