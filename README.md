@@ -1,7 +1,5 @@
 # dakota-nelson-portfolio
 
-My very first Professional Portfolio built entirely from scratch
-
 # Link
 
 https://kotalilyy.github.io/dakota-nelson-portfolio/
