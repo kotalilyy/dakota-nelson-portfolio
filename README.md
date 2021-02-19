@@ -1,6 +1,10 @@
-# dakota-nelson-portfolio
+# My First Portfolio
 
-My very first Portfolio made entirely from scratch 
+Made using
+
+* HTML
+
+* CSS
 
 # Link
 
