@@ -46,17 +46,15 @@
         text-decoration: none;
         font-size: 17px;
       }
-
-  
    
-  @media screen and (max-width: 500px){
+  @media (max-width: 500px){
       h1 {
           color:violet;
           font-size: 3rem;
       }
   }
 
-  @media screen and (max-width: 800px){
+  @media (max-width: 800px){
     h1 {
     color: blueviolet;
     font-size: 2rem;
